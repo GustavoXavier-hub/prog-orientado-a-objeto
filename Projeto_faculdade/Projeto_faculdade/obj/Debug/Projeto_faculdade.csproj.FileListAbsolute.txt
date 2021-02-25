@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\bin\Debug\Projeto_faculdade.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\bin\Debug\Projeto_faculdade.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\bin\Debug\Projeto_faculdade.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\obj\Debug\Projeto_faculdade.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\obj\Debug\Projeto_faculdade.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\obj\Debug\Projeto_faculdade.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Projeto_faculdade\Projeto_faculdade\obj\Debug\Projeto_faculdade.csprojAssemblyReference.cache
