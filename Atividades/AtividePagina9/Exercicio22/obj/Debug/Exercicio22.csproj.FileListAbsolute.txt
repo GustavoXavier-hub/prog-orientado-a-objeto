@@ -1,0 +1,6 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividePagina9\Exercicio22\bin\Debug\Exercicio22.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividePagina9\Exercicio22\bin\Debug\Exercicio22.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividePagina9\Exercicio22\bin\Debug\Exercicio22.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividePagina9\Exercicio22\obj\Debug\Exercicio22.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividePagina9\Exercicio22\obj\Debug\Exercicio22.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividePagina9\Exercicio22\obj\Debug\Exercicio22.pdb

@@ -1,0 +1,6 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Pratica\ExemploClasses\Classes\bin\Debug\Classes.dll
+D:\Faculdade\3-Semestre\prog orientado a objeto\Pratica\ExemploClasses\Classes\bin\Debug\Classes.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Pratica\ExemploClasses\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Pratica\ExemploClasses\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Pratica\ExemploClasses\Classes\obj\Debug\Classes.dll
+D:\Faculdade\3-Semestre\prog orientado a objeto\Pratica\ExemploClasses\Classes\obj\Debug\Classes.pdb

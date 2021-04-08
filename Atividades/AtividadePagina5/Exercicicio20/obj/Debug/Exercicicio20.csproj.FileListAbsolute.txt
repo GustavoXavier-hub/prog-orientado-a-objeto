@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\bin\Debug\Exercicicio20.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\bin\Debug\Exercicicio20.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\bin\Debug\Exercicicio20.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\obj\Debug\Exercicicio20.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\obj\Debug\Exercicicio20.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\obj\Debug\Exercicicio20.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio20\obj\Debug\Exercicicio20.pdb

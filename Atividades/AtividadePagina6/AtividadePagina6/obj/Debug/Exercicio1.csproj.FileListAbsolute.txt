@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\bin\Debug\AtividadePagina6.exe.config
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\bin\Debug\AtividadePagina6.exe
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\bin\Debug\AtividadePagina6.pdb
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\obj\Debug\AtividadePagina6.exe
+C:\Users\User\source\repos\AtividadePagina6\AtividadePagina6\obj\Debug\AtividadePagina6.pdb

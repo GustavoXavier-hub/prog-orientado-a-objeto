@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\bin\Debug\Matriz.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\bin\Debug\Matriz.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\bin\Debug\Matriz.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\obj\Debug\Matriz.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\TESTE\Matriz\obj\Debug\Matriz.pdb

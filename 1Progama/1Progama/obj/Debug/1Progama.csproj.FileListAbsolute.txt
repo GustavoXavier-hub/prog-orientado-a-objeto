@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\bin\Debug\1Progama.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\bin\Debug\1Progama.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\bin\Debug\1Progama.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\obj\Debug\1Progama.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\obj\Debug\1Progama.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\obj\Debug\1Progama.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\1Progama\1Progama\obj\Debug\1Progama.pdb

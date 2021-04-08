@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\bin\Debug\Exercicio31.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\bin\Debug\Exercicio31.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\bin\Debug\Exercicio31.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\obj\Debug\Exercicio31.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\obj\Debug\Exercicio31.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\obj\Debug\Exercicio31.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina6\AtividadePagina6\Exercicio31\obj\Debug\Exercicio31.pdb

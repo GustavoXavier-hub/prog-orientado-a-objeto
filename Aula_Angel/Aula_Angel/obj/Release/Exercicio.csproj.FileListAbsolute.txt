@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\bin\Release\Aula_Angel.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\bin\Release\Aula_Angel.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\bin\Release\Aula_Angel.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\obj\Release\Exercicio.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\obj\Release\Aula_Angel.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\obj\Release\Aula_Angel.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula_Angel\Aula_Angel\obj\Release\Exercicio.csprojAssemblyReference.cache

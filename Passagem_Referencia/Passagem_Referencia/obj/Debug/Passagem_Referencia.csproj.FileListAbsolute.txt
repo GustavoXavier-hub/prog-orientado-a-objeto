@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\bin\Debug\Passagem_Referencia.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\bin\Debug\Passagem_Referencia.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\bin\Debug\Passagem_Referencia.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\obj\Debug\Passagem_Referencia.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\obj\Debug\Passagem_Referencia.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\obj\Debug\Passagem_Referencia.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Passagem_Referencia\Passagem_Referencia\obj\Debug\Passagem_Referencia.pdb

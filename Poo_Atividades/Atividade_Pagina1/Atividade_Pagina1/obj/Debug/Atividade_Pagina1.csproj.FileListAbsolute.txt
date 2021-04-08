@@ -1,0 +1,6 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Poo_Atividades\Atividade_Pagina1\Atividade_Pagina1\bin\Debug\Atividade_Pagina1.dll
+D:\Faculdade\3-Semestre\prog orientado a objeto\Poo_Atividades\Atividade_Pagina1\Atividade_Pagina1\bin\Debug\Atividade_Pagina1.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Poo_Atividades\Atividade_Pagina1\Atividade_Pagina1\obj\Debug\Atividade_Pagina1.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Poo_Atividades\Atividade_Pagina1\Atividade_Pagina1\obj\Debug\Atividade_Pagina1.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Poo_Atividades\Atividade_Pagina1\Atividade_Pagina1\obj\Debug\Atividade_Pagina1.dll
+D:\Faculdade\3-Semestre\prog orientado a objeto\Poo_Atividades\Atividade_Pagina1\Atividade_Pagina1\obj\Debug\Atividade_Pagina1.pdb

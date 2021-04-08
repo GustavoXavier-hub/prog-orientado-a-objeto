@@ -1,0 +1,6 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio17\bin\Debug\Exercicicio17.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio17\bin\Debug\Exercicicio17.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio17\bin\Debug\Exercicicio17.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio17\obj\Debug\Exercicicio17.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio17\obj\Debug\Exercicicio17.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina5\Exercicicio17\obj\Debug\Exercicicio17.pdb

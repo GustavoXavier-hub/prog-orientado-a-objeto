@@ -1,0 +1,7 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\bin\Debug\Aula5.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\bin\Debug\Aula5.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\bin\Debug\Aula5.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\obj\Debug\Aula5.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\obj\Debug\Aula5.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\obj\Debug\Aula5.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Aula5\Aula5\obj\Debug\Aula5.pdb

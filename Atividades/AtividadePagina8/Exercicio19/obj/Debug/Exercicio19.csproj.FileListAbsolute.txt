@@ -1,0 +1,6 @@
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina8\Exercicio19\bin\Debug\Exercicio19.exe.config
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina8\Exercicio19\bin\Debug\Exercicio19.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina8\Exercicio19\bin\Debug\Exercicio19.pdb
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina8\Exercicio19\obj\Debug\Exercicio19.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina8\Exercicio19\obj\Debug\Exercicio19.exe
+D:\Faculdade\3-Semestre\prog orientado a objeto\Atividades\AtividadePagina8\Exercicio19\obj\Debug\Exercicio19.pdb
